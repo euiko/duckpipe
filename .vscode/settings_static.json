@@ -1,0 +1,8 @@
+{
+    "cmake.configureEnvironment": {
+        "CMAKE_POLICY_DEFAULT_CMP0003": "NEW",
+        "CMAKE_POLICY_DEFAULT_CMP0012": "NEW",
+        "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/thirdparty/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "BUILD_STATIC": "ON"
+    }
+}
